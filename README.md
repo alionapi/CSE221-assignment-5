@@ -1,12 +1,6 @@
 # CSE221-assignment-5
 CSE221: Data Structures | Fall 2024 | Shortest Way to a Cat
 
-# CSE221 Programming Assignment #5
-
-Shortest Way to a Cat
-
-## Overview
-
 A C++ implementation of graph-based shortest path search using Dijkstra's algorithm. The project models the UNIST campus as a weighted undirected graph and finds the shortest path from a starting location to a cat's location using a custom graph representation and a heap-based priority queue.
 
 ## Features
