@@ -18,7 +18,7 @@ A C++ implementation of graph-based shortest path search using Dijkstra's algori
 .
 ├── Makefile                  # Build configuration
 ├── PA5 description_v1.0.pdf  # Assignment specification
-├── README.md                 # this file
+├── README.md                 # This file
 ├── main.cpp                  # Test driver
 ├── graph.cpp
 ├── graph.h                   # Graph implementation
